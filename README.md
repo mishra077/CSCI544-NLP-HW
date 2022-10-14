@@ -1,0 +1,5 @@
+# CSCI544-NLP-HW
+- HW1: Word_embedding_machine_learning_models_for_sentimental_analysis_reviews
+- HW2: Word_embedding_deep_learning_models_semantic_analysis_reviews
+- HW3: Language_model_using_greedy-viterbi_decoding_of_HMM_model
+- HW4: BiLSTM_Vanilla_Architecture_for_Named-Entity_Recognition
